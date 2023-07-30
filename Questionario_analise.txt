@@ -1,0 +1,19 @@
+Perguntas a serem feitas para analisar os dados de assinaturas da DSA: 
+
+de acordo com as colunas inseridas: 
+
+Username
+Nome
+Sexo
+Data_Nascimento	
+Ocupação
+Assinatura
+Total_Gasto
+
+1º) Total Gasto e Média de Gasto?
+2º) Total Gasto e Média de Assinaturas por Sexo ? 
+3º) Total Gasto e Média de Assinaturas por Ocupação? 
+4º) Total Gasto e Média de Assinaturas por Nome ? 
+5°) Total Gasto e Média de Assinaturas por Ano ? 
+6º) Média de Assinaturas por Assinaturas ?
+7°) Média de Assinaturas por Nascimento ?  
